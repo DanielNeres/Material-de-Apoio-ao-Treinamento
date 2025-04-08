@@ -31,7 +31,7 @@ Repositório com conteúdos e exemplos práticos para preparação na modalidade
 
 ## 🔗 Links importantes
 - [Site Oficial da OBI](https://olimpiada.ic.unicamp.br/)
-- [Material de Apoio da OBI](https://olimpiada.ic.unicamp.br/apoio)
+- [Material de Apoio da OBI](https://olimpiada.ic.unicamp.br/prepare/estude/)
 - [Material de Apoio da MFP](https://sites.google.com/view/cursomfp/home)
 - [Plataforma de Exercícios Beecrowd](https://www.beecrowd.com.br/)
 - [Treinamento para OBI feito Cesar Munari](https://youtu.be/5oajcPFTGcQ?si=2D8-KiGODUbQ5lRX)
