@@ -34,6 +34,7 @@ Repositório com conteúdos e exemplos práticos para preparação na modalidade
 - [Material de Apoio da OBI](https://olimpiada.ic.unicamp.br/prepare/estude/)
 - [Material de Apoio da MFP](https://sites.google.com/view/cursomfp/home)
 - [Plataforma de Exercícios Beecrowd](https://www.beecrowd.com.br/)
+- [Plataforma de Problemas Projec Euler](https://projecteuler.net/archives)
 - [Treinamento para OBI feito Cesar Munari](https://youtu.be/5oajcPFTGcQ?si=2D8-KiGODUbQ5lRX)
 
 ---
